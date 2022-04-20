@@ -1,6 +1,6 @@
 # productionized_netflix_prize_ml
 
-The goals of this project where to develop an end to end Production ML System for Personalized Movie Recommendations base on the Netflix Price Data set(https://en.wikipedia.org/wiki/Netflix_Prize). 
+An end to end Production ML System for serving of Personalized Movie Recommendations based on the Netflix Price Dataset(https://en.wikipedia.org/wiki/Netflix_Prize). 
 
 ## Research Environment 
 
