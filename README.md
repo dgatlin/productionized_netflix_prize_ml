@@ -1,12 +1,13 @@
 # productionized_netflix_prize_ml
 
-## Research Environmrnt 
+## Research Environment 
 
-Model Development 
+Deep Learning Matrix Factorization Model developed with Keras 
 
 ## Prod Environment 
 
-Model Productionization, Monitoring, and Testing
+Model Productionization, Monitoring, and Testing, Production package, tests, and configuration files, 
+Deployed via a restAPI. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
